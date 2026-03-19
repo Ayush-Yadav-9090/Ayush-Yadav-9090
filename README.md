@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Ayush Yadav
 
-<!--
-**Ayush-Yadav-9090/Ayush-Yadav-9090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Web Developer
+💡 Passionate about building scalable and secure web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 🔭 Currently building Django & REST API Projects
+* 🌱 Learning advanced backend & system design
+* 💬 Ask me about React, SQL, Django, Python
+* ⚡ Focused on writing clean, scalable backend systems
+* 📫 Email: [yadayush458@gmail.com](mailto: yadayush458@gmail.com)
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** React, HTML, CSS, JavaScript, Python 
+**Backend:** Django 
+**Database:** SQL
+**Tools:** Git, GitHub
+
+---
+
+## 🔥 Projects
+
+* 🛒 Clothify – E-commerce frontend
+* 🛍️ TechMart – Full-stack project
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Ayush-Yadav-9090\&show_icons=true\&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+* Portfolio: https://ayushportfolioweb0.netlify.app/
+* LinkedIn: https://www.linkedin.com/in/ayush-yadav807132376
+
+---
+
+⭐ Always learning and building new things
